@@ -42,6 +42,29 @@ Uma plataforma para compartilhamento de vídeos criada com **Node.js**, **Expres
 - 💬 Sistema de comentários e curtidas
 - 🔍 Busca e filtros para vídeos
 
+### 📌 Endpoints da API
+#### 🔹 Usuários
+[POST] /api/auth/register → Cadastra um novo usuário.
+
+[POST] /api/auth/login → Autentica um usuário.
+#### 🔹 Vídeos
+[GET] /api/videos → Lista todos os vídeos.
+
+[POST] /api/videos → Adiciona um novo vídeo.
+#### 🔹 Playlists
+[GET] /api/playlists → Lista todas as playlists.
+
+[POST] /api/playlists → Cria uma nova playlist.
+   
+### 🛠️ Tecnologias
+#### 🔹 Node.js + Express
+#### 🔹 MongoDB + Mongoose
+#### 🔹 React.js + React Router
+#### 🔹 Axios para requisições HTTP
+#### 🔹 Multer para upload de arquivos
+
+#### 📄 Licença
+Este projeto é open-source e licenciado sob a licença MIT.
 
 
 
