@@ -30,32 +30,18 @@
 
 🚀 **Projetos em Destaque**
 
-Plataforma de Streaming Escalável
+# StreamingHub 🎬
 
-Sistema de streaming baseado em microsserviços usando Node.js e AWS.
+Uma plataforma para compartilhamento de vídeos criada com **Node.js**, **Express**, **MongoDB** no back-end e **React.js** no front-end.
+
+## 🚀 Funcionalidades
+
+- 📌 Cadastro e login de usuários
+- 🎥 Upload e visualização de vídeos
+- 📜 Criação e gerenciamento de playlists
+- 💬 Sistema de comentários e curtidas
+- 🔍 Busca e filtros para vídeos
 
 
-
-- Tecnologias:
-
-Node.js
-
-AWS
-
-Docker
-
-Kubernetes
-
-PostgreSQL
-
-- Características:
-
-✅ Arquitetura de microsserviços
-
-✅ Autenticação JWT
-
-✅ CI/CD com GitHub Actions
-
-✅ Monitoramento com Prometheus/Grafana
 
 
